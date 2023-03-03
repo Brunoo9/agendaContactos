@@ -1,4 +1,4 @@
-# agendaContactos
+# Agenda de Contactos
 Sistema para administrar una agenda de contactos realizado con Visual Basic .NET
 
 
